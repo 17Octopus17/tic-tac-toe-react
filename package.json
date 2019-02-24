@@ -1,6 +1,7 @@
 {
   "name": "tic-tac-toe-react",
   "version": "0.1.0",
+  "homepage": "https://17octopus17.github.io/tic-tac-toe-react/",
   "private": true,
   "dependencies": {
     "react": "^16.8.3",
